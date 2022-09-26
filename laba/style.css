@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(150, 200, 250);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    margin-left: 40%;
+}
+img{
+    height: 50%;
+    width: 50%;
+}
+button{
+    background-color: rgb(255, 127, 80);
+}
